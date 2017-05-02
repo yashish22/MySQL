@@ -1,0 +1,1 @@
+SELECT * FROM telemedicine.studentinfo where name='ashish' and surname='yadav'  ;
