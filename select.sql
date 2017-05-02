@@ -1,0 +1,1 @@
+select idstudentinfo,name,surname,age from telemedicine.studentinfo;
