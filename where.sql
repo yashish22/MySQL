@@ -1,0 +1,1 @@
+select * from telemedicine.studentinfo where age=20;
