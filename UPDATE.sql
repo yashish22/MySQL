@@ -1,0 +1,1 @@
+UPDATE telemedicine.studentinfo set name ='sanjeev',age=23  where idstudentinfo=14111005  ;
