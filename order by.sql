@@ -1,0 +1,1 @@
+SELECT * FROM telemedicine.studentinfo order by age;
